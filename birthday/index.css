@@ -1,0 +1,99 @@
+body{
+    text-align: center;
+    font-family: 'Happy Monkey', cursive;
+    background: linear-gradient(#a2d2ff,pink) ;
+    color: #ffffff;
+}
+#enny{
+    width: 100px;
+    border-radius: 60%;
+    border:6px solid #EFB0C9 ;
+}
+h1, h2,h3, h4,p{
+    text-shadow: 0px 0px 2px black;
+}
+#bday-age{
+    background: #EFB0C9;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin: 5px o 10px 0;
+}
+
+
+#bday-date {
+    margin: 0px;
+    background: #EFB0C9;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+#header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.giftimg{
+    width: 400px;
+    border:6px solid white ;
+    border-radius: 10px;
+    background-image: url("images/gift.jpg");
+    height: 400px;
+    background-size: cover;
+    margin: 0 auto;
+}
+.giftimg:hover{
+    background-image: url("images/happy.gif");
+}
+.giftsection{
+margin-top: 50px;
+}
+
+.giftimg2{
+    width: 400px;
+    border:6px solid white ;
+    border-radius: 10px;
+    background-image: url("images/gift.jpg");
+    height: 400px;
+    background-size: cover;
+    margin: 0 auto;
+}
+.giftimg2:hover{
+    background-image: url("images/dance.gif");
+}
+.giftsection2{
+margin-top: 50px;
+}
+
+.giftimg3{
+    width: 400px;
+    border:6px solid white ;
+    border-radius: 10px;
+    background-image: url("images/gift.jpg");
+    height: 400px;
+    background-size: cover;
+    margin: 0 auto;
+}
+.giftimg3:hover{
+    background-image: url("images/ovation.gif");
+    background-size: 400px;
+}
+.giftsection3{
+margin-top: 50px;
+}
+
+.giftimg4{
+    width: 400px;
+    border:6px solid white ;
+    border-radius: 10px;
+    background-image: url("images/gift.jpg");
+    height: 400px;
+    background-size: cover;
+    margin: 0 auto;
+}
+.giftimg4:hover{
+    background-image: url("images/HAND.gif");
+    background-size: 500px;
+}
+.giftsection4{
+margin-top: 50px;
+}
+
